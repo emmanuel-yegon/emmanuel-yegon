@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 ---
 
 ### 👨‍💻 About Me :
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kenya.
+I am a Full Stack Developer| Data Analyst <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kenya.
 
 - :telescope: I’m currenlty learning android application development.
 
